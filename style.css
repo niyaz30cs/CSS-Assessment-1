@@ -1,0 +1,34 @@
+.head
+{
+    color: red;
+    font-style: italic;
+}
+.cut
+{
+    text-decoration: line-through;
+}
+.over
+{
+    background-color: yellow;
+}
+.list
+{
+    color: brown;
+}
+.cross
+{
+    font-style: italic;
+    text-decoration: underline;
+}
+.list2
+{
+    color: brown;
+    letter-spacing: 5px;
+}
+.page
+{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+}
